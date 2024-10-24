@@ -31,7 +31,6 @@ Here are a few tips to get you started:
 
 ## Features
 
-- [Create and edit forms](creating-and-editing-forms.md)
-- [Add different field types to a form](field-types.md)
-- [Set up multipage forms](multipage-forms.md)
-- [View submissions and set up automated emails upon form completion](form-submissions.md)
+- [Create and edit forms](01_creating-and-editing-forms.md)
+- [Add different field types to a form](02_field-types.md)
+- [View submissions and set up automated emails upon form completion](03_form-submissions.md)
